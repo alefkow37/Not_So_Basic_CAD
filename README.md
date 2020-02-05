@@ -4,7 +4,7 @@ In Not So Basic CAD, we had two assignments. One was "Sweeps and Lofts" and the 
 
 
 <img src="NSBpics/candlepicture.PNG" width="300" >
-
+vbn
 
 <img src="NSBpics/loftpicture.PNG" width="300" >
 

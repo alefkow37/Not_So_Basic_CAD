@@ -4,10 +4,10 @@ In Not So Basic CAD, we had two assignments. One was "Sweeps and Lofts" and the 
 
 
 <img src="NSBpics/candlepicture.PNG" width="300" >
-vbn
+For the candle stick, we 
 
 <img src="NSBpics/loftpicture.PNG" width="300" >
-
+In this project, we had to build a hammer head, using loft features. 
 
 <img src="NSBpics/tutorpicture.PNG" width="300" >
 

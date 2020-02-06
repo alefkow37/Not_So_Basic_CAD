@@ -10,9 +10,9 @@ The Candle Stick was easy for me. It was a pretty straight forward project. I di
 In this project, we had to build a hammer head, using loft features. We had to create several planes and I struggle with that. It took me a while to figure out how to do that correctly. Bending the piece was also kind of challenging because there was a certain point we had bend and it was hard to find it. 
 
 <img src="NSBpics/tutorpicture.PNG" width="300" >
-
+For this assignment, we combined two parts to make it. Using mates, we stuck the two pices together. There wasn't a really hard part to this assignment, and for the most part it was pretty simple.The only part I had a little difficulty with was getting the correct mates, but I figured that out quickley. 
 
 <img src="NSBpics/pressureplate.PNG" width="300" >
-
+This was the introduction to solid works project. 
 
 

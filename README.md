@@ -13,6 +13,6 @@ In this project, we had to build a hammer head, using loft features. We had to c
 For this assignment, we combined two parts to make it. Using mates, we stuck the two pices together. There wasn't a really hard part to this assignment, and for the most part it was pretty simple.The only part I had a little difficulty with was getting the correct mates, but I figured that out quickley. 
 
 <img src="NSBpics/pressureplate.PNG" width="300" >
-This was the introduction to solid works project. We created a pressure plate. 
+This was the introduction to solid works project. We created a pressure plate which was an easy assignment for me. 
 
 
